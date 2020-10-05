@@ -1,5 +1,1 @@
-(A CTF-styled problem)
-
-"Life is NP-hard, but..."
-
-"It's a sweet piece of music, isn't it?"
+那真滴牛批，啊，那真滴牛批
